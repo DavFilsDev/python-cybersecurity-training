@@ -15,10 +15,9 @@ This repository contains Python exercises and small projects to help me build pr
 
 ## 🔨 Current Development Focus
 
-🔧 `basics/` folder:
-- ✅ File handling
-- ✅ OS module basics
-- ✅ Hashing (MD5, SHA1, SHA256)
+🔧 `cryptography/` folder:
+- ✅ aes_encryption.py
+- ✅ rsa_encryption.py
 
 ---
 
