@@ -29,8 +29,10 @@ This repository contains Python exercises and small projects to help me build pr
 python-cybersecurity-training/
 ├── basics/
 │   ├── os_module_basics.py
+│   ├── hashing_basics.py
 │   └── file_handling.py
 ├── cryptography/
+│   └── casear_cipher.py
 ├── network/
 ├── web\_security/
 ├── forensics/
